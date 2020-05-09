@@ -1,0 +1,20 @@
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Properties\Properties\obj\Debug\Properties.csprojResolveAssemblyReference.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Properties\Properties\obj\Debug\Properties.Form1.resources
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Properties\Properties\obj\Debug\Properties.Properties.Resources.resources
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Properties\Properties\obj\Debug\Properties.csproj.GenerateResource.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Properties\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Properties\Properties\bin\Debug\Properties.exe.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Properties\Properties\bin\Debug\Properties.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Properties\Properties\bin\Debug\Properties.pdb
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Properties\Properties\obj\Debug\Properties.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Properties\Properties\obj\Debug\Properties.pdb
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Properties\Properties\bin\Debug\Properties.exe.config
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Properties\Properties\bin\Debug\Properties.exe
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Properties\Properties\bin\Debug\Properties.pdb
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Properties\Properties\obj\Debug\Properties.csprojAssemblyReference.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Properties\Properties\obj\Debug\Properties.Form1.resources
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Properties\Properties\obj\Debug\Properties.Properties.Resources.resources
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Properties\Properties\obj\Debug\Properties.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Properties\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Properties\Properties\obj\Debug\Properties.exe
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Properties\Properties\obj\Debug\Properties.pdb

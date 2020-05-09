@@ -1,0 +1,2 @@
+# Properties
+ Özellikler. / Properties
